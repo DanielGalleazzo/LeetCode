@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.exe
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.deps.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.runtimeconfig.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfo.cs
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.sourcelink.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\refint\RomanToInteger.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.genruntimeconfig.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\RomanToInteger\RomanToInteger\obj\Debug\net8.0\ref\RomanToInteger.dll
