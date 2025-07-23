@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\bin\Debug\net8.0\MinutesToSecond.exe
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\bin\Debug\net8.0\MinutesToSecond.deps.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\bin\Debug\net8.0\MinutesToSecond.runtimeconfig.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\bin\Debug\net8.0\MinutesToSecond.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\bin\Debug\net8.0\MinutesToSecond.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.AssemblyInfo.cs
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.sourcelink.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\refint\MinutesToSecond.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\MinutesToSecond.genruntimeconfig.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\MinutesToSecond\MinutesToSecond\obj\Debug\net8.0\ref\MinutesToSecond.dll

@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\net8.0\ArrayOfMultiples.exe
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\net8.0\ArrayOfMultiples.deps.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\net8.0\ArrayOfMultiples.runtimeconfig.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\net8.0\ArrayOfMultiples.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\net8.0\ArrayOfMultiples.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.AssemblyInfo.cs
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.sourcelink.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\refint\ArrayOfMultiples.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ArrayOfMultiples.genruntimeconfig.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\net8.0\ref\ArrayOfMultiples.dll

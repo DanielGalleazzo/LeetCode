@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\bin\Debug\net8.0\AreTheNumbersEqual.exe
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\bin\Debug\net8.0\AreTheNumbersEqual.deps.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\bin\Debug\net8.0\AreTheNumbersEqual.runtimeconfig.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\bin\Debug\net8.0\AreTheNumbersEqual.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\bin\Debug\net8.0\AreTheNumbersEqual.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.AssemblyInfo.cs
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.sourcelink.json
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\refint\AreTheNumbersEqual.dll
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.pdb
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\AreTheNumbersEqual.genruntimeconfig.cache
+C:\Users\danie\Desktop\ExerciciosLeetCode\AreTheNumbersEqual\AreTheNumbersEqual\obj\Debug\net8.0\ref\AreTheNumbersEqual.dll

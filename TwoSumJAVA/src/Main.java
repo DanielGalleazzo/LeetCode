@@ -1,26 +1,31 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Main {
+
     public static void main(String[] args) {
+        int[] nums = {3, 3};
+        int target = 6;
+        twoSum(nums, target);
+    }
 
-        //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-        //
-        //You may assume that each input would have exactly one solution, and you may not use the same element twice.
-        //
-        //You can return the answer in any order.
-        int[] nums = {2, 5};
-        int target = 1;
+    public static int[] twoSum(int[] nums, int target) {
 
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
+        List<Integer> integerList = Arrays.stream(nums).boxed().toList();
 
-                if (nums[i] + nums[j] == target) {
-                    System.out.println("Indices: [" + i + ", " + j + "]");
-                    return;
+        ArrayList<Integer> result = new ArrayList<>();
+        for (int i = 0; i < integerList.size(); i++) {
+            int n = integerList.get(i);
 
-                }
-                else {
-                    System.out.println("Não encontrado");
+            for (int j = 0; j < integerList.size(); j++) {
+                int sn = integerList.get(j);
+
+                int sum = n + sn;
+                if (i != j && sum == target) {
                 }
             }
         }
-    } // Extremamente parecido com c# :P
+    }
 }
