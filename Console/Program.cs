@@ -381,6 +381,43 @@ for (int i = 0; i < array.Length; i++)
 Console.WriteLine(total);
 */
 
+//Create a function that takes two number strings and returns their sum as a string.
+/*
+string primeiroValorString = "";
+int primeiroInt = int.Parse(primeiroValorString);
+
+string segundoValorString = "80";
+int segundoInt = int.Parse(segundoValorString);
+
+int total = primeiroInt + segundoInt;
+Console.WriteLine(total);
+*/
+
+
+//Given an array of boxes, create a function that returns the total volume of all those boxes combined together.
+//A box is represented by an array with three elements: length, width and height.
+
+
+
+/*
+int[] length = new int[3] { 4, 2, 4 };
+int[] width = new int[3] {3, 3, 3 };
+int[] height = new int[3] { 1, 2, 1 };
+
+int sumLenght1 = 0;
+int sumLenght2 = 0;
+int sumLenght3 = 0;
+int totalLenght = 0;
+
+int totalWidth = 0;
+int sumWidth1 = 0;
+int sumWidth2 = 0;
+int sumWidth3 = 0;
+
+int sumHeight1 = 0;
+int sumHeight2 = 0;
+int sumHeight3 = 0;
+int totalHeight = 0;
 
 
 
@@ -388,10 +425,73 @@ Console.WriteLine(total);
 
 
 
+for (int i = 0;  i < length.Length;  i++)
+{
+    sumLenght1 = length[0];
+    sumLenght2 = length[1];
+    sumLenght3 = length[2];
+    
+    totalLenght = sumLenght1 * sumLenght2 * sumLenght3;
+}
+for (int i = 0;i < width.Length; i++)
+{
+    sumWidth1 = width[0];
+    sumWidth2 = width[1];
+    sumWidth3 = width[2];
+
+    totalWidth = sumWidth1 * sumWidth2 * sumWidth3;
+
+}
+for (int i = 0; i < height.Length; i++)
+{
+    sumHeight1 = height[0];
+    sumHeight2 = height[1];
+    sumHeight3 = height[2];
+
+    totalHeight = sumHeight1 * sumHeight2 * sumHeight3;
+
+
+}
+
+Console.WriteLine($"Valor de lenght: {totalLenght} ");
+Console.WriteLine($"Valor de lenght: {totalWidth} ");
+Console.WriteLine($"Valor de lenght: {totalHeight} ");
+
+int totalSoma = totalLenght + totalWidth + totalHeight;
+
+Console.WriteLine($"Total: {totalSoma}");
+
+
+*/
+
+//Write a function that finds the sum of an array. Make your function recursive.
+/*
+int[] array = new int[2 ] { 1, 2 };
+int sum = 0;
+
+for (int i = 0; i < array.Length; i++)
+{
+    sum += array[i];
+}
+Console.WriteLine(sum);
+
+*/
+
+//Create a function that takes an array of numbers and returns the mean (average) of all those numbers.
+/*
+double[] array = new double[] { 2, 3, 2, 3 };
+double sum = 0;
+double avg = 0;
+
+for (int i = 0; i < array.Length; i++)
+{
+    sum += array[i];
+    avg = sum / array.Length;
+}
 
 
 
-
-
+Console.WriteLine(avg);
+*/
 
 
