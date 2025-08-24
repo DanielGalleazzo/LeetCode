@@ -335,7 +335,7 @@ for (int i = 0; i < array.Length; i++)
     sum = num * (i + 1);
     array[i] = sum;
 }
-Console.WriteLine(string.Join(", ", array)); // system 32
+Console.WriteLine(string.Join(", ", array)); // system 32 erro do system 32 
 
 */
 //Create a function that counts the integer's number of digits.
@@ -493,5 +493,48 @@ for (int i = 0; i < array.Length; i++)
 
 Console.WriteLine(avg);
 */
+
+
+//An array is special if every even index contains an even number and every odd index contains an odd number.
+//Create a function that returns true if an array is special, and false otherwise.
+/*
+int[] array = new int[8] { 2, 7, 4, 9, 6, 1, 6, 3 };
+
+
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i] % 2 == 0)
+    {
+        Console.WriteLine("Valores par:" + array[i]);
+    }
+    else
+    {
+        Console.WriteLine("Valores impar: " + array[i]);
+    }
+
+}
+*/
+
+//Create a method that accepts a int array separated numbers and returns the highest and lowest number 
+
+
+
+// If the exercise above asked of an array of int, i would do by that way
+/*
+int[] array = new int[5] { 1, 2, 3, 4, 5 };
+
+int minimo = array.Min();
+int maximo = array.Max();
+
+Console.WriteLine("Menor valor do array: " + minimo);
+Console.WriteLine("Maior valor do array: " + maximo); 
+
+LISTEN CRYSTAL CASTLES, DEFTONES, $B, X E LIL PEEP !!
+
+*/
+
+
+
+
 
 
